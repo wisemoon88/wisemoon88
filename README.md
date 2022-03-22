@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wisemoon88
 - 👀 I've been dabbling in programming since the start of my career and now looking to really develop and expand my skills to the next level
-- 🌱 I’m currently learning Python as i see a lot of applications of this in my current work 
+- 🌱 I am well versed in blockchain, ethereum and Solidity; adept at utilizing brownie and hardhat framework to deploy and call smart contracts
 - 💞️ I’m looking to collaborate on any projects that can help to further improve my skills and experience
 - 📫 How to reach me: https://www.linkedin.com/in/qabd88/
 
